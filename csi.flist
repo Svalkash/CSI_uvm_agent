@@ -1,0 +1,4 @@
+../../../vivo/csi/csi_ppi_if.svh
+../../../vivo/csi/csi_bidir_if.svh
+../../../vivo/csi/csi_test_if.svh
+../../../vivo/csi/csi_pkg.sv
